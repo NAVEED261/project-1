@@ -16,12 +16,12 @@ const config = {
   url: 'https://NAVEED261.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/project-1-book/',
+  baseUrl: '/project-1/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'NAVEED261', // Usually your GitHub org/user name.
-  projectName: 'project-1-book', // Usually your repo name.
+  projectName: 'project-1', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
@@ -44,7 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/NAVEED261/project-1-book/tree/main/',
+            'https://github.com/NAVEED261/project-1/tree/main/',
         },
         blog: false, // Disable blog for textbook
         theme: {
@@ -79,7 +79,7 @@ const config = {
             label: 'Textbook',
           },
           {
-            href: 'https://github.com/NAVEED261/project-1-book',
+            href: 'https://github.com/NAVEED261/project-1',
             label: 'GitHub',
             position: 'right',
           },
@@ -115,11 +115,11 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/NAVEED261/project-1-book',
+                href: 'https://github.com/NAVEED261/project-1',
               },
               {
                 label: 'Project Constitution',
-                href: 'https://github.com/NAVEED261/project-1-book/blob/main/.specify/memory/constitution.md',
+                href: 'https://github.com/NAVEED261/project-1/blob/main/.specify/memory/constitution.md',
               },
             ],
           },
