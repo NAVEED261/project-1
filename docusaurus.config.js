@@ -13,9 +13,8 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://NAVEED261.github.io',
-  // Vercel serves from root, so keep baseUrl at '/'
-  baseUrl: '/',
+url: 'https://naveed261.github.io',   // lowercase best practice
+baseUrl: '/project-1/',               // MOST IMPORTANT FIX
 
   // GitHub pages deployment config.
   organizationName: 'NAVEED261', // Usually your GitHub org/user name.
